@@ -57,8 +57,9 @@ tr:nth-child(even){background:#f9fafb;}
 .cta-strip{background:var(--sand);color:var(--blue-dark);text-align:center;padding:40px 0;}
 .cta-strip h2{color:var(--blue-dark);}
 
-form.lead-form{max-width:520px;background:#fff;border:1px solid #e3e6ea;border-radius:8px;padding:28px;}
-form.lead-form label{display:block;font-weight:600;margin-bottom:6px;margin-top:14px;}
+form.lead-form{max-width:520px;background:#fff;border:1px solid #e3e6ea;border-radius:8px;padding:28px;color:var(--text);}
+form.lead-form label{display:block;font-weight:600;margin-bottom:6px;margin-top:14px;color:var(--text);}
+form.lead-form h3{color:var(--blue-dark);}
 form.lead-form input,form.lead-form select,form.lead-form textarea{width:100%;padding:10px;border:1px solid #ccd3da;border-radius:5px;font-size:1rem;}
 form.lead-form button{margin-top:20px;}
 form.lead-form.on-dark{background:rgba(255,255,255,.97);}
