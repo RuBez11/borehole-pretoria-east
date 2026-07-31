@@ -2,4 +2,4 @@ name = "borehole-pretoria-east"
 compatibility_date = "2024-01-01"
 
 [assets]
-directory = "."
+directory = "borehole-site-upload"
